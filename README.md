@@ -28,7 +28,7 @@ The Fake News Detector for Students provides an AI-driven, easy-to-use platform 
 
 ### Quick Setup
 
-1. **Clone the repository**
+**To clone the repository**
    ```bash
    git clone <https://github.com/hari010606/Fake-News-Detector.git>
    cd fake-news-detector
